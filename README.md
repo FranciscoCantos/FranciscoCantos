@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Cantos</h1>
-<h3 align="center">As iOS developer I have worked at a number of companies gaining teamwork and multiple skills. I am a very restless person who always likes to learn new things. I am passionate about technological advances and I like to try everything.</h3>
+<h3 align="center">As iOS developer I have worked at a number of companies gaining teamwork and multiple skills.</h3>
+<h3 align="center">I am a very restless person who always likes to learn new things. </h3>
+<h3 align="center">I am passionate about technological advances and I like to try everything.</h3>
 
 - 📫 How to reach me **franciscocantosgutierrez@gmail.com**
 
